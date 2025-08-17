@@ -8,6 +8,7 @@ import '../../../ui/pages/home_page/apps_tab.dart';
 import '../../../ui/pages/home_page/contacts_tab.dart';
 import '../../../ui/pages/home_page/edit_dialog.dart';
 import '../../../ui/theme.dart';
+import '../../../ui/pages/home_page/help_screen_tab.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -68,7 +69,9 @@ class HomePage extends StatelessWidget {
                       style: TextStyles.headerDate,
                     ),
                   ),
-                  TabBar(tabs: [
+                  TabBar(
+                    isScrollable: true, // 👈 Makes tab bar scrollable
+                    tabs: [
                     Tab(
                       child: Center(
                         child: Row(
@@ -112,11 +115,26 @@ class HomePage extends StatelessWidget {
                       ),
                     ),
                   ]),
+                  Tab(
+                      child: Center(
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: <Widget>[
+                            const Padding(
+                              padding: EdgeInsets.fromLTRB(0, 0, 0, 0),
+                              child: Icon(Icons.help),
+                            ),
+                            Flexible(
+                              child: AutoSizeText(
+                                S.of(context).HelpScreen,
+                                group: _appBarTextSizeGroup,
+                                maxLines: 1,
+								style: const TextStyle(fontSize: 50),
                 ],
               ),
             ),
           ),
-          body: const TabBarView(children: <Widget>[AppsTab(), ContactsTab()]),
+         body: TabBarView (children: <Widget>[AppsTab(), ContactsTab(), HelpScreenTab(),]),
         ),
       ),
     );
