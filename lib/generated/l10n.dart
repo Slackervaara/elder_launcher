@@ -70,6 +70,16 @@ class S {
     );
   }
 
+   /// `Help`
+  String get HelpScreen {
+    return Intl.message(
+      'Help',
+      name: 'HelpScreen',
+      desc: '',
+      args: [],
+    );
+  }
+  
   /// `All Apps`
   String get btnAllApps {
     return Intl.message(
