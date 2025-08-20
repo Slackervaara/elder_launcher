@@ -1,6 +1,7 @@
 {
-    "Apps": "Apps",
-    "Contacts": "Contatos",
+    "apps": "Apps",
+    "contacts": "Contatos",
+	"help": "Ajuda",
     "btnAllApps": "Todos os apps",
     "btnAllContacts": "Todos os contatos",
     "btnAddFavApps": "Adicionar Aplicativos favoritos",
@@ -22,5 +23,7 @@
     "dlgAppsReload": "Recarregar lista de aplicativos",
     "dlgContactsAddRemove": "Adicionar/Remover Contatos",
     "dlgContactsReorder": "Reordenar Contatos",
-    "dlgContactsReload": "Recarregar lista de contatos"
+    "dlgContactsReload": "Recarregar lista de contatos",
+	"helpText": "Bem-vindo à Ajuda do Elder Launcher. \n\n A aplicação é fácil de configurar e de utilizar. Quando quiser alterar as aplicações apresentadas, clique na caneta no canto direito. É totalmente gratuita; as outras aplicações para idosos têm versões pagas ou anúncios. \n\n Para ampliar o texto no seu telemóvel, existe a aplicação Big Font, que pode ampliar todo o telemóvel https://play.google.com/store/apps/details?id=com.a0soft.gphone.bfont .\n\n Para o teclado, existe a aplicação GBoard, que faz com que o teclado aumente quando pressiona quatro quadrados nele. https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin \n\n Falta um botão de alarme para chamar o SOS em comparação com o BIG Launcher, mas instale a aplicação SOS da sua escolha e adicione-a\n\n Para o desinstalar, se estiver seleccionado por defeito, deve ir ao anterior, por exemplo, o App Launcher, e seleccioná-lo."
 }
+     

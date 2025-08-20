@@ -1,6 +1,6 @@
 {
-    "Apps": "Aplikacje",
-    "Contacts": "Kontakty",
+    "apps": "Aplikacje",
+    "contacts": "Kontakty",
     "btnAllApps": "Wszystkie Aplikacje",
     "btnAllContacts": "Wszystkie Kontakty",
     "btnAddFavApps": "Dodaj ulubione aplikacje",

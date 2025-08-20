@@ -1,6 +1,6 @@
 {
-    "Apps": "Apps",
-    "Contacts": "Contacten",
+    "apps": "Apps",
+    "contacts": "Contacten",
     "btnAllApps": "Alle apps",
     "btnAllContacts": "Alle contacten",
     "btnAddFavApps": "Voeg favoriete apps toe",
