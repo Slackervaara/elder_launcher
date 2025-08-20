@@ -1,6 +1,7 @@
 {
-    "Apps": "Apps",
-    "Contacts": "Kontakte",
+    "apps": "Apps",
+    "contacts": "Kontakte",
+	"help": "Helfen",
     "btnAllApps": "Alle Apps",
     "btnAllContacts": "Alle Kontakte",
     "btnAddFavApps": "Favorisierte Apps hinzufügen",
@@ -22,5 +23,6 @@
     "dlgAppsReload": "App Liste neu laden",
     "dlgContactsAddRemove": "Kontakte hinzufügen/entfernen",
     "dlgContactsReorder": "Kontakte neu anordnen",
-    "dlgContactsReload": "Kontaktliste neu laden"
+    "dlgContactsReload": "Kontaktliste neu laden",
+	"helpText": "Willkommen bei der Elder Launcher-Hilfe.\n\n Die App ist einfach einzurichten und zu verwenden. Wenn Sie die angezeigten Apps ändern möchten, klicken Sie auf den Stift in der rechten Ecke. Dann ist sie völlig kostenlos, die anderen Senioren-Apps haben kostenpflichtige Versionen oder Werbung.\n\n Um den Text auf Ihrem Mobiltelefon zu vergrößern, gibt es die App Big Font (Schriftgröße ändern), mit der Sie das gesamte Mobiltelefon vergrößern können https://play.google.com/store/apps/details?id=com.a0soft.gphone.bfont. \n\n Für die Tastatur gibt es die App GBoard, mit der sich die Tastatur vergrößern lässt, wenn Sie auf vier Quadrate darauf drücken.\n\n Um sie zu deinstallieren, falls sie standardmäßig ausgewählt ist, müssen Sie zur vorherigen App, z. B. App Launcher, gehen und sie auswählen."
 }
