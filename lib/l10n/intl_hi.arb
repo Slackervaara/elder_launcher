@@ -1,6 +1,6 @@
 {
-    "Apps": "ऐप्स",
-    "Contacts": "संपर्क",
+    "apps": "ऐप्स",
+    "contacts": "संपर्क",
     "btnAllApps": "सभी ऐप्स",
     "btnAllContacts": "सभी संपर्क",
     "btnAddFavApps": "पसंदीदा एप्लिकेशन जोड़ें",
