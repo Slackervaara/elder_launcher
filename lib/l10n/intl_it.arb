@@ -1,6 +1,7 @@
 {
-    "Apps": "Apps",
-    "Contacts": "Contatti",
+    "apps": "Apps",
+    "contacts": "Contatti",
+	"help": "Aiuto",
     "btnAllApps": "Tutte le App",
     "btnAllContacts": "Tutti contatti",
     "btnAddFavApps": "Aggiungi app preferite",
@@ -21,5 +22,6 @@
     "dlgAppsReload": "Ricarica la lista delle app",
     "dlgContactsAddRemove": "Aggiungi/rimuovi contatti",
     "dlgContactsReorder": "Riorganizza i contatti",
-    "dlgContactsReload": "Ricarica la lista dei contatti"
+    "dlgContactsReload": "Ricarica la lista dei contatti",
+	"helpText": "Benvenuti nella guida di Elder Launcher.\n\n L'app è facile da configurare e utilizzare. Per cambiare le app visualizzate, cliccate sulla penna nell'angolo destro. È completamente gratuita, le altre app per anziani hanno versioni a pagamento o pubblicità.\n\n Per ingrandire il testo sul vostro cellulare, c'è l'app Big Font (cambia dimensione carattere), che può ingrandire l'intero cellulare https://play.google.com/store/apps/details?id=com.a0soft.gphone.bfont .\n\n Per la tastiera, c'è l'app GBoard, che la ingrandisce quando si premono quattro quadrati su di essa.\n\n Per disinstallarla, se è selezionata di default, dovete andare alla versione precedente, ad esempio App Launcher, e selezionarla."
 }
