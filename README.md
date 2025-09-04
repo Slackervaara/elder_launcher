@@ -4,7 +4,9 @@ Elder Launcher is a launcher designed for seniors focused on simplicity and legi
 
 Elder Launcher supports pinning favorite apps and contacts to the homescreen for quick access.
 
-This modification contains a Help Screen and also the apk is for up to android 15.
+This modification contains a Help Screen, Swedish translation and also the apk provided is for up to android 15.
+
+The help text is available in English, German, French, Spanish, Portuguese, Italian and Swedish. For other languages the help text will appear in English. I have translated the Help text with Google Translate so there might be minor errors. The links to the different apps are clickable. 
 
 <span>
 
