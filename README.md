@@ -4,6 +4,8 @@ Elder Launcher is a launcher designed for seniors focused on simplicity and legi
 
 Elder Launcher supports pinning favorite apps and contacts to the homescreen for quick access.
 
+This modification contains a Help Screen and also the apk is for up to android 15.
+
 <span>
 
 <img src="/elderlauncher2.png" height="350" alt="Homescreen with favourite apps and Help Screen">
